@@ -1,1 +1,1 @@
-
+![Preliminary System Architecture](../system-architecture-v0.1.png)
