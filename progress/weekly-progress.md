@@ -25,11 +25,6 @@
 - Examined their monitoring capabilities and root-cause analysis approaches.
 - Identified areas for further investigation in the proposed AMAD system.
 
-## Week 6 — System Architecture and Proposal Planning
-- Designed the preliminary system architecture diagram for the proposed AMAD platform.
-- Mapped the major components, including NestJS microservices, OpenTelemetry, the Python/FastAPI analysis service, and the monitoring dashboard.
-- Discussed the architecture with the supervisor, who finalized the architectural direction and instructed us to prepare the project proposal.
-
 ---
 
 ## Current Status
